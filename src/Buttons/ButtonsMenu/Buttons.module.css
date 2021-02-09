@@ -1,0 +1,15 @@
+.button {
+    width: 200px;
+    height: 50px;
+    background-color: dimgrey;
+    border: 3px solid green;
+    border-radius: 10px;
+    display: flex;
+
+
+}
+.b {
+    display: flex;
+    position: relative;
+    right: 80px;
+}

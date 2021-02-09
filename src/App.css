@@ -1,0 +1,16 @@
+.App {
+  padding: 30px;
+  position: relative;
+  left: 400px;
+  top: 50px;
+  border: double 3px red;
+  width: 210px;
+  height: 300px;
+  border-radius: 20px;
+
+  background-color: aquamarine;
+}
+
+.App > div {
+  margin-right: 50px;
+}

@@ -1,0 +1,22 @@
+.display {
+    width: 200px;
+    height:250px;
+    background-color: darkcyan;
+    border: 3px solid green;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+    font-size: 15pt;
+    font-weight: bolder;
+    color: yellow;
+
+
+}
+.h1 {
+    color: red;
+
+}
+.button {
+    display: flex;
+    position: relative; left: 80px;
+}

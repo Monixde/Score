@@ -1,0 +1,14 @@
+.App1 {
+  padding: 30px;
+
+  left: 400px;
+  top: 50px;
+
+
+  display: flex;
+
+}
+
+.App > div {
+  margin-right: 50px;
+}
